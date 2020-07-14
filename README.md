@@ -1,3 +1,3 @@
 In questa repository si trova il progetto di programmazione di applicazioni Data Intensive dello studente Matteo Castellucci, numero di matricola 0000825436.   
 Direttamente tracciati nella repository si trovano il sorgente del notebook Jupyter, il file zip che contiene i dataset in formato CSV e i file del dataset già scompattati.
-Nella sezione Download si trovano invece il file PDF e il file HTML ottenuti dal notebook Jupyter.
+Nella sezione Download si trovano invece il file PDF e il file HTML ottenuti dal notebook Jupyter. Il link al notebook Colab è [il seguente](https://colab.research.google.com/drive/1x616oL1z0o2TJPpb4sRvCRN6yY1mCDJo?usp=sharing).
